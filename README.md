@@ -1,6 +1,6 @@
 # C Programming Lab Experiments (1–5)
 
-## Student Details
+# Student Details
 - Name: Vidit Ahuja  
 - SAP ID: 590029285  
 - University: UPES, Bidholi Campus  
@@ -11,12 +11,12 @@
 
 ## Course Information
 Course: C Programming Lab  
-Faculty: [Instructor’s Name Here]  
-Semester: [Add your semester number, e.g., 1st / 2nd Semester]  
+Faculty: Sandip Chaurasiya
+Semester: 1st Semester  
 
 ---
 
-## Experiment List
+# Experiment List
 
 | Experiment No. | Title | Description |
 |----------------|--------|-------------|
