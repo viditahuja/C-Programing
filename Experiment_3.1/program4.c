@@ -6,7 +6,6 @@ int main() {
     printf("Enter the year: ");
     scanf("%d", &year);
 
-    // Monday on 1 Jan 1900
     day = (year - 1900) + (year - 1900) / 4 - (year - 1900) / 100 + (year - 1600) / 400;
     day = (day + 1) % 7;
 
@@ -23,4 +22,5 @@ int main() {
     }
 
     return 0;
+
 }
